@@ -1,0 +1,6 @@
+framework module Pods_PnewStart {
+  umbrella header "Pods-PnewStart-umbrella.h"
+
+  export *
+  module * { export * }
+}
